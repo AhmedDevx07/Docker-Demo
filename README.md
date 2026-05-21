@@ -6,7 +6,7 @@ A simple Node.js application containerized with Docker, featuring MongoDB integr
 
 ## 🚀 Live Demo
 
-> Run locally using Docker — no installation of Node.js or MongoDB required!
+https://docker-demo-production-e835.up.railway.app/
 
 ---
 
@@ -138,6 +138,7 @@ Both containers run on the same **Docker network** — they communicate using se
 - ✅ Environment Variables with `.env`
 - ✅ Docker Volumes for data persistence
 - ✅ Pushing to Docker Hub
+- ✅ Live Deployment on Railway
 
 ---
 
