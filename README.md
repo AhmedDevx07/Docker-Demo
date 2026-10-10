@@ -142,10 +142,16 @@ Both containers run on the same **Docker network** — they communicate using se
 
 ---
 
-## 👨‍💻 Author
+  
+ ## 👨‍💻 Author
 
-**Muhammad Ahmed**
-[GitHub](https://github.com/ahmeddevx07) • [LinkedIn](https://linkedin.com/in/ahmeddevx07) • [Portfolio](https://ahmeddevx07.vercel.app)
+**Muhammad Ahmed (AhmedDevx07)**  
+ 
+### 🌐 Connect With Me
+
+* 🐙 GitHub: https://github.com/AhmedDevx07  
+* 💼 LinkedIn: https://linkedin.com/in/ahmeddevx07  
+* 🌐 Portfolio: https://ahmeddevx07.vercel.app/
 
 ---
 
